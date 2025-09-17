@@ -1,16 +1,50 @@
-## Hi there 👋
+### 👋 はじめに (Introduction)
 
-<!--
-**Haru8644/Haru8644** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+東京理科大学 先進工学部 物理工学科に在籍しているHaruです。ユーザーに価値を届けるプロダクトを開発できるソフトウェアエンジニアを目指しています。
 
-Here are some ideas to get you started:
+基本情報技術者試験や競技プログラミング(AtCoder)で培ったコンピュータサイエンスの基礎知識を土台に、現在はC#/.NETとMicrosoft Azureを用いたWebアプリケーション開発に注力しています。応用情報技術者試験の学習や、インターンシップへの挑戦を通じて、プロダクトを企画から実現まで導ける実践的なスキルの習得を目指しています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**▼ 強み (My Strengths)**
+コンピュータサイエンスの基礎知識と、アルゴリズム的思考力が強みです。
+- 🏅 **資格:** 基本情報技術者試験 (FE)
+- 💻 **競技プログラミング:** AtCoder (C++)
+
+**▼ 現在の活動 (What I'm Doing Now)**
+上記の土台の上に、実践的なWeb開発スキルを掛け合わせるため、以下の活動に注力しています。
+- 🚀 **ポートフォリオ開発:** C#/.NET と Microsoft Azure を用いたWebアプリケーション開発
+- 📚 **学習:** 応用情報技術者試験 (AP) 、実践的な英語力 (TOEIC)
+- 🤝 **経験:** チーム開発を学ぶためのインターンシップへの挑戦
+
+---
+
+### 🛠️ 技術スタック (Tech Stack)
+
+| カテゴリ | スキル / 資格 |
+|:---|:---|
+| **言語** | C, C++, C#|
+| **フレームワーク** | .NET, ASP.NET Core |
+| **クラウド** | Microsoft Azure |
+| **保有資格** | 🏅 基本情報技術者試験 (FE) |
+| **学習中の資格** | 📖 応用情報技術者試験 (AP), AZ-204 |
+
+---
+
+### 🚀 目標 (Goals)
+
+- **ポートフォリオ開発**
+  - ユーザーの課題を解決するWebアプリケーションを企画から開発、Azureへのデプロイまで一貫して行い、実践的な開発スキルを証明。
+
+- **チーム開発経験**
+  - ソフトウェアエンジニアのインターンシップに積極的に参加し、実務における開発プロセスやチームワークを学ぶ。
+
+- **資格・語学**
+  - 応用情報技術者試験(AP)とAZ-204を取得し、体系的な知識を深める。
+  - TOEIC 800点を取得し、英語の技術ドキュメントをスムーズに読めるレベルを目指す。
+
+---
+
+### 📫 連絡先 (Contact Me)
+
+お気軽にご連絡ください！
+- **Email**: haru.dev8644@gmail.com
+- **AtCoder**: [Haru44](https://atcoder.jp/users/Haru44)
