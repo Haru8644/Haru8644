@@ -21,8 +21,8 @@
 
 | カテゴリ | スキル / 資格 |
 |:---|:---|
-| **言語** | C, C++, C#, TypeScript, Go|
-| **フレームワーク** | .NET, ASP.NET Core |
+| **言語** | C, C++, C#, JavaScript,TypeScript|
+| **フレームワーク/ライブラリ** | .NET, ASP.NET Core, Blazor, React|
 | **クラウド** | Microsoft Azure |
 | **保有資格** | 🏅 基本情報技術者試験 (FE) |
 | **学習中の資格** | 📖 応用情報技術者試験 (AP), AZ-204 |
