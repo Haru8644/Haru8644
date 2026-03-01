@@ -1,53 +1,66 @@
-### 👋 はじめに (About Me)
+## 👋 About Me
 
-東京理科大学 先進工学部 物理工学科に在籍している Haru (稲生 遥希) です。ユーザーに真の価値を届けるクラウドネイティブなプロダクトを開発する、**/ ソフトウェアエンジニア**を目指しています。
+Hi, I'm **Haruki Ino (Haru)**, an undergraduate student majoring in **Physical Engineering at Tokyo University of Science**.  
+I’m passionate about becoming a **Software Engineer / Technical Specialist** who builds **cloud-native products** that solve real-world problems.
 
-競技プログラミング (AtCoder) や国家資格の取得を通じて培ったコンピュータサイエンスとアルゴリズム的思考力を土台とし、現在は **C#/.NET** と **Microsoft Azure** を用いたモダンなWebアプリケーション開発に注力しています。継続的な学習と実践的なインターンシップを通じて、「**Customer Obsession（顧客第一）**」の視点を持ち、企画からクラウドへの本格展開までプロダクトを牽引できる実践的なスキルの習得を目指しています。
+With a strong foundation in **computer science and algorithmic problem-solving** (backed by AtCoder and national certifications), my current focus is on **modern web application development using C#/.NET and Microsoft Azure**.  
+My ultimate goal is to be an engineer who doesn't just write code, but drives products **end-to-end**—from defining the core problem to deployment, and ensuring they take deep root in frontline operations. 
 
-**▼ 強み (My Strengths)**
-コンピュータサイエンスの基礎への深い理解と、論理的な課題解決能力が強みです。
-- 🏅 **資格:** 基本情報技術者試験 (FE)、Azure Fundamentals (AZ-900)
-- 💻 **競技プログラミング:** AtCoder (C++) - 水色コーダー (Cyan Rank)
-
-**▼ 現在の活動 (What I'm Doing Now)**
-基礎知識と高度で実践的なエンジニアリングスキルを掛け合わせるため、以下の活動に注力しています。
-- 🚀 **クラウドネイティブ開発:** C#/.NET、クリーンアーキテクチャ、Microsoft Azure を用いたスケーラブルなWebアプリケーションの構築。
-- 📚 **継続的な学習:** Azure Developer Associate (AZ-204) 及び応用技術者試験（AP）の取得に向けた学習と、実践的な英語力の向上 (TOEIC 800点以上が目標)。
-- 🤝 **実務経験:** 長期インターンシップに参加し、バックエンド開発やアジャイルなチーム開発の実務経験を積む。
+**Portfolio :** https://black-mud-02aa94010.6.azurestaticapps.net/
 
 ---
 
-### 🛠️ 技術スタックと資格 (Technical Stack & Qualifications)
+## 💡 Strengths
 
-| カテゴリ | スキル / 資格 |
+- **Bridging the Gap Between Code and Operations** I don't just "build and deploy." I focus on how systems are actually used on the front lines, designing with exception handling and user adoption in mind.
+- **Strong CS Fundamentals & Structured Thinking** I approach problems with clarity: define constraints, model the system, validate with tests, and iterate safely.
+- **Competitive Programming & Certifications**
+  - AtCoder (C++) — **Cyan rank**
+  - Microsoft Certified: Azure Fundamentals (AZ-900)
+  - Fundamental Information Technology Engineer (FE)
+
+---
+
+## 🔭 What I’m Working On
+
+- **Cloud-Native Development**
+  - Building scalable web applications with **C#/.NET**, **Clean Architecture**, and **Microsoft Azure**.
+- **Continuous Learning**
+  - Preparing for **Azure Developer Associate (AZ-204)** and **Applied Information Technology Engineer (AP)**.
+  - Improving professional English communication (target: **TOEIC 800+**).
+- **Hands-on Industry Experience**
+  - Long-term internship focused on backend development, agile delivery, and system operation.
+
+---
+
+## 🛠️ Technical Stack & Qualifications
+
+| Category | Skills / Qualifications |
 | :--- | :--- |
-| **言語** | C#, Go, TypeScript, JavaScript, C++, C, VBA, Arduino |
-| **フロントエンド & モバイル** | Blazor (WebAssembly / Server), React, Next.js, .NET MAUI, Tailwind CSS, Fluent UI |
-| **バックエンド & データベース** | ASP.NET Core Web API, Node.js, Entity Framework Core (EF Core), Azure SQL, SQLite |
-| **クラウド・インフラ & DevOps**| Microsoft Azure (App Service), .NET Aspire, Docker, OpenTelemetry, Linux (ConoHa VPS), systemd |
-| **アーキテクチャ** | Clean Architecture, MVVM Pattern, RESTful API Design |
-| **保有資格** | 🏅 基本情報技術者試験 (FE)<br>☁️ Microsoft Certified: Azure Fundamentals (AZ-900) |
-| **学習中** | 🚀 Microsoft Certified: Azure Developer Associate (AZ-204)<br>🏅 応用情報技術者試験 (AP)<br>🌍 TOEIC L&R Score 800+ |
+| **Languages** | C#, Go, TypeScript, JavaScript, C++, C, VBA, Arduino |
+| **Frontend & Mobile** | Blazor (WebAssembly / Server), React, Next.js, .NET MAUI, Tailwind CSS, Fluent UI |
+| **Backend & Databases** | ASP.NET Core Web API, Node.js, Entity Framework Core (EF Core), Azure SQL, SQLite |
+| **Cloud / Infra / DevOps** | Microsoft Azure (App Service), .NET Aspire, Docker, OpenTelemetry, Linux (ConoHa VPS), systemd |
+| **Architecture** | Clean Architecture, MVVM, RESTful API Design |
+| **Certifications** | Fundamental Information Technology Engineer (FE)<br>Microsoft Certified: Azure Fundamentals (AZ-900) |
+| **Currently Learning** | Microsoft Certified: Azure Developer Associate (AZ-204)<br>Applied Information Technology Engineer (AP)<br>TOEIC L&R 800+ |
 
 ---
 
-### 🚀 目標 (Goals)
+## 🎯 Goals
 
-- **フルサイクルでのポートフォリオ開発**
-  - ユーザー中心の堅牢なWebアプリケーションを自ら企画、構築し、Azureへデプロイすることで、実践的な開発スキルを証明する。
-
-- **チーム開発とビジネスへの貢献**
-  - ソフトウェアエンジニアのインターンシップに積極的に参加し、業界標準の開発プロセス、チーム連携、そしてビジネスの課題解決に直結するエンジニアリングを自分の中に落とし込む。
-
-- **高度な資格取得と語学力**
-  - AZ-204の取得を通じて、クラウドアーキテクチャに関する知識を深める。
-  - TOEIC 800点以上を達成し、グローバルな技術ドキュメントをスムーズに理解・活用できるレベルを目指す。
+- **Build Full-Cycle, Production-Ready Products**
+  - Plan, build, deploy, and operate user-centered applications on Azure to gain hands-on experience in maintaining systems that people actually use.
+- **Contribute in Team Environments**
+  - Strengthen real-world delivery skills: collaboration, code review, and making engineering decisions tied to business outcomes.
+- **Deepen Cloud Expertise**
+  - Expand Azure design and implementation skills through AZ-204 and personal hands-on projects.
 
 ---
 
-### 📫 連絡先 (Contact Me)
+## 📫 Contact
 
-お気軽にご連絡ください！
-- **Email**: haru.dev8644@gmail.com
-- **GitHub**: [Haru8644](https://github.com/Haru8644)
-- **AtCoder**: [Haru44](https://atcoder.jp/users/Haru44)
+- **Email:** haru.dev8644@gmail.com  
+- **GitHub:** https://github.com/Haru8644  
+- **AtCoder:** https://atcoder.jp/users/Haru44  
+- **LinkedIn:** https://www.linkedin.com/in/haruki-ino-b82632384/
