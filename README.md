@@ -1,66 +1,79 @@
-## 👋 About Me
+Hi, I'm Haruki Ino.
 
-Hi, I'm **Haruki Ino (Haru)**, an undergraduate student majoring in **Physical Engineering at Tokyo University of Science**.  
-I’m passionate about becoming a **Software Engineer / Technical Specialist** who builds **cloud-native products** that solve real-world problems.
+I'm an undergraduate student in Physical Engineering at Tokyo University of Science.
 
-With a strong foundation in **computer science and algorithmic problem-solving** (backed by AtCoder and national certifications), my current focus is on **modern web application development using C#/.NET and Microsoft Azure**.  
-My ultimate goal is to be an engineer who doesn't just write code, but drives products **end-to-end**—from defining the core problem to deployment, and ensuring they take deep root in frontline operations. 
+I like building products that solve real problems in actual operations. What I care about most is not just making something work, but making it usable, maintainable, and worth continuing to use after release.
 
-**Portfolio :** https://black-mud-02aa94010.6.azurestaticapps.net/
+My main focus right now is web application development with C#/.NET, TypeScript, and Azure. I’m especially interested in building products that connect implementation, product decisions, and day-to-day operations.
 
----
+I want to become someone who can move a product forward from problem definition to implementation and improvement, while keeping both technical quality and real-world usability in mind.
 
-## 💡 Strengths
+Portfolio:
+https://black-mud-02aa94010.6.azurestaticapps.net/
 
-- **Bridging the Gap Between Code and Operations** I don't just "build and deploy." I focus on how systems are actually used on the front lines, designing with exception handling and user adoption in mind.
-- **Strong CS Fundamentals & Structured Thinking** I approach problems with clarity: define constraints, model the system, validate with tests, and iterate safely.
-- **Competitive Programming & Certifications**
-  - AtCoder (C++) — **Cyan rank**
-  - Microsoft Certified: Azure Fundamentals (AZ-900)
-  - Fundamental Information Technology Engineer (FE)
+## What I’m good at
 
----
+- Seeing the gap between “working code” and “usable systems”  
+  I pay attention to how a system is actually used in practice, including exceptions, operational friction, and how people adopt it over time.
 
-## 🔭 What I’m Working On
+- Breaking down problems in a structured way  
+  I like clarifying constraints, organizing the problem, comparing options, and improving things step by step.
 
-- **Cloud-Native Development**
-  - Building scalable web applications with **C#/.NET**, **Clean Architecture**, and **Microsoft Azure**.
-- **Continuous Learning**
-  - Preparing for **Azure Developer Associate (AZ-204)** and **Applied Information Technology Engineer (AP)**.
-  - Improving professional English communication (target: **TOEIC 800+**).
-- **Hands-on Industry Experience**
-  - Long-term internship focused on backend development, agile delivery, and system operation.
+- Owning work from idea to improvement  
+  I enjoy finding pain points, proposing a better approach, building prototypes, getting feedback, and continuing to improve the product after release.
 
----
+## What I’m working on
 
-## 🛠️ Technical Stack & Qualifications
+- Building practical products for real use cases
+- Improving my backend and web development skills with C#/.NET, TypeScript, and Azure
+- Working on internal system development with Next.js / Node.js / TypeScript
+- Studying for AZ-204 and the Applied Information Technology Engineer exam
+- Improving my English for work and technical communication
 
-| Category | Skills / Qualifications |
-| :--- | :--- |
-| **Languages** | C#, Go, TypeScript, JavaScript, C++, C, VBA, Arduino |
-| **Frontend & Mobile** | Blazor (WebAssembly / Server), React, Next.js, .NET MAUI, Tailwind CSS, Fluent UI |
-| **Backend & Databases** | ASP.NET Core Web API, Node.js, Entity Framework Core (EF Core), Azure SQL, SQLite |
-| **Cloud / Infra / DevOps** | Microsoft Azure (App Service), .NET Aspire, Docker, OpenTelemetry, Linux (ConoHa VPS), systemd |
-| **Architecture** | Clean Architecture, MVVM, RESTful API Design |
-| **Certifications** | Fundamental Information Technology Engineer (FE)<br>Microsoft Certified: Azure Fundamentals (AZ-900) |
-| **Currently Learning** | Microsoft Certified: Azure Developer Associate (AZ-204)<br>Applied Information Technology Engineer (AP)<br>TOEIC L&R 800+ |
+## Technical stack
 
----
+Main:
+- C#, TypeScript, JavaScript, C++, VBA
+- Blazor WebAssembly, React, Next.js, Tailwind CSS, Fluent UI
+- ASP.NET Core Web API, Node.js, Entity Framework Core, Prisma
+- SQLite, Azure SQL
+- Azure, Linux, Nginx, systemd, Docker
+- REST API design, MVVM, Clean Architecture
 
-## 🎯 Goals
+Also used / currently learning:
+- Go
+- .NET MAUI
+- OpenTelemetry
+- .NET Aspire
+- Arduino / C
 
-- **Build Full-Cycle, Production-Ready Products**
-  - Plan, build, deploy, and operate user-centered applications on Azure to gain hands-on experience in maintaining systems that people actually use.
-- **Contribute in Team Environments**
-  - Strengthen real-world delivery skills: collaboration, code review, and making engineering decisions tied to business outcomes.
-- **Deepen Cloud Expertise**
-  - Expand Azure design and implementation skills through AZ-204 and personal hands-on projects.
+## Certifications
 
----
+- Fundamental Information Technology Engineer
+- Microsoft Certified: Azure Fundamentals (AZ-900)
 
-## 📫 Contact
+## Competitive programming
 
-- **Email:** haru.dev8644@gmail.com  
-- **GitHub:** https://github.com/Haru8644  
-- **AtCoder:** https://atcoder.jp/users/Haru44  
-- **LinkedIn:** https://www.linkedin.com/in/haruki-ino-b82632384/
+- AtCoder (C++) — Cyan
+
+Competitive programming has helped me get better at thinking under constraints, modeling problems clearly, and implementing solutions carefully.
+
+## What I want to do next
+
+I want to keep building products that are actually used, while getting better at team development, design discussions, code reviews, and long-term product improvement.
+
+I’m especially interested in work where engineering is connected to real users, real operations, and real product decisions.
+
+## Links
+
+GitHub:
+https://github.com/Haru8644
+
+AtCoder:
+https://atcoder.jp/users/Haru44
+
+LinkedIn:
+https://www.linkedin.com/in/haruki-ino-b82632384/
+
+Email:
+haru.dev8644@gmail.com
